@@ -6,6 +6,6 @@
 
   SoleStyle is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://zerobrofan.github.io/SoleStyle-eCommerce-website/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
